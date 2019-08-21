@@ -1,0 +1,7 @@
+[package]
+name = "fractals"
+version = "0.1.0"
+authors = ["sautax <sautaxgaming@gmail.com>"]
+
+[dependencies]
+image = "0.20.1"
